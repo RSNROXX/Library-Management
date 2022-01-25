@@ -1,2 +1,2 @@
-# Library-Management
-Library Management System 
+# Covid Management 
+Covid Management System
