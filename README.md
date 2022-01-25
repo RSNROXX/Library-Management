@@ -1,2 +1,1 @@
-# Covid Management 
-Covid Management System
+# covidcenterdatabase
